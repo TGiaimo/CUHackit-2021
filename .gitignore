@@ -1,3 +1,4 @@
 #ignored files
 .vscode
 ve
+flaskr/__pycache__/
