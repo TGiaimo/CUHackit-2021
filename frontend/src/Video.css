@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #191919;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: rgb(233, 222, 222);
+  }
+  
+  .keysearch {
+    font-size: calc(10px + 2vmin);
+    align-content: bottom;
+    width: 65%;
+    height: 50%;
+  }
+
+  .ytvid {
+  }

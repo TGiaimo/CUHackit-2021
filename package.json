@@ -1,0 +1,22 @@
+{
+  "name": "cuhackit-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TGiaimo/CUHackit-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TGiaimo/CUHackit-2021/issues"
+  },
+  "homepage": "https://github.com/TGiaimo/CUHackit-2021#readme",
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
+  }
+}
