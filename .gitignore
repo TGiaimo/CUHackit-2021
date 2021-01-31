@@ -2,3 +2,4 @@
 .vscode
 ve
 node_modules
+flaskr/__pycache__/
